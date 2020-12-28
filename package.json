@@ -2,7 +2,7 @@
   "name": "gatsby-starter-hello-friend",
   "description": "A simple starter for Gatsby. That's it.",
   "version": "0.2.0",
-  "author": "Radek Kozieł <radoslaw.koziel@gmail.com>",
+  "author": "Joshua Baylasy <jbaylasy@hotmail.com>",
   "keywords": [
     "gatsby",
     "minimal",
@@ -68,9 +68,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/panr/gatsby-starter-hello-friend"
+    "url": "https://github.com/joshbouy/blogfolio"
   },
   "bugs": {
-    "url": "https://github.com/panr/gatsby-starter-hello-friend/issues"
+    "url": "https://github.com/joshbouy/blogfolio/issues"
   }
 }
